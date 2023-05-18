@@ -1,0 +1,75 @@
+#name0{
+    margin-bottom: 0px;
+}
+#name1{
+    margin-bottom: 0px;
+    
+}
+#name2{
+    margin-bottom: 0px;
+}
+#name3{
+    margin-bottom: 0px;
+}
+#name4{
+    margin-bottom: 0px;
+    
+}
+.signing{
+   text-align: center;  
+   ;
+}
+    
+body {
+       /* background-image: url('images/bg111.jpg');  */
+      background-color: rgb(8, 53, 8);  
+      background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.details{
+    text-align: center;
+    
+    color: rgb(238, 229, 229);
+  
+
+}
+#signup{
+    margin-top: 20px;
+    margin-right: 60px;
+    background-color: green;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    border: none;
+    
+    
+}
+#login{
+    margin-left:30px ;
+    background-color: green;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    border: none;
+}
+ ::placeholder{
+    color:black
+
+} 
+
+input{
+    background-color: rgb(56, 187, 56);
+    width: 400px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+   
+}
+#logo{
+    width: 70px;
+    margin-left: 48%;
+    margin-top: 10px;
+
+} 
+
