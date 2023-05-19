@@ -1,35 +1,48 @@
 #name0{
     margin-bottom: 0px;
+    color: blue;
+
 }
 #name1{
     margin-bottom: 0px;
+    color: blue;
+
     
 }
 #name2{
     margin-bottom: 0px;
+    color: blue;
+
 }
 #name3{
     margin-bottom: 0px;
+    color: blue;
+
 }
 #name4{
+    color: blue;
     margin-bottom: 0px;
     
 }
 .signing{
    text-align: center;  
+   color: blue
    ;
+}
+#hello{
+    color: blue;
 }
     
 body {
        /* background-image: url('images/bg111.jpg');  */
-      background-color: rgb(194, 129, 9);  
+      background-image: linear-gradient(yellow,green);
       background-repeat: no-repeat;
     background-size: cover;
+    color: darkgreen;
   }
   
 .details{
     text-align: center;
-    
     color: rgb(238, 229, 229);
   
 
@@ -37,28 +50,31 @@ body {
 #signup{
     margin-top: 20px;
     margin-right: 60px;
-    background-color: green;
-    border-radius: 5px;
+    background-color: greenyellow;
+    border-radius: 15px;
     width: 80px;
     height: 30px;
     border: none;
-    color: white;
+    color: blue;
     
 }
 
 #login{
     margin-left:30px ;
-    background-color: green;
-    border-radius: 5px;
+    background-color: greenyellow;
+    border-radius: 15px;
     width: 80px;
     height: 30px;
     border: none;
+    
 
 }
 
 #login a{
     text-decoration: none;
-    color: white;
+    color: blue;
+    
+
 }
  ::placeholder{
     color:black
@@ -66,16 +82,16 @@ body {
 } 
 
 input{
-    background-color: rgb(56, 187, 56);
+    background-color: wheat;
     width: 400px;
     height: 30px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
    
 }
 #logo{
-    width: 70px;
-    margin-left: 48%;
+    width: 130px;
+    margin-left: 45%;
     margin-top: 10px;
 
 } 
